@@ -22,7 +22,7 @@ To run this project, make sure you have Python installed on your system along wi
 
 1. Clone this repository to your local machine.
 2. Install the required Python libraries using `pip install -r requirements.txt`.
-3. Run the `iris_prediction.py` script to train the model and make predictions.
+3. Run the `KNN.py` script to train the model and make predictions.
 
 ## Results
 

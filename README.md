@@ -16,9 +16,7 @@ To run this project, make sure you have Python installed on your system along wi
 
 ## Files
 
-- `iris_prediction.py`: Main script containing the implementation of the KNN algorithm for iris prediction.
-- `iris.csv`: Dataset file containing the Iris data.
-- `requirements.txt`: File listing the required Python libraries and their versions.
+- `KNN.py`: Main script containing the implementation of the KNN algorithm for iris prediction.
 
 ## Getting Started
 
